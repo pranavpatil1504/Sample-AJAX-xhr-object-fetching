@@ -1,4 +1,4 @@
-## **A Sample XMLHTTPRequest fetching through .json files 
+## **A Sample XMLHTTPRequest fetching through .json files**
 
 ## To run Locally:
 1. Install LIVE SERVER Extensions in VS Code.
